@@ -190,10 +190,10 @@ In Progress ...
 ### 8. Results Visualization\*\*
 
 **Confusion Matrix**
-![confusion-matrix](./README Assets/confusion-matrix.png)
+![confusion-matrix](./README%20Assets/confusion-matrix.png)
 
 **Sample Predictions**
-![prediction_sample](./README Assets/prediction_sample.png)
+![prediction_sample](./README%20Assets/prediction_sample.png)
 
 **Future Improvements**
 
